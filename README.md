@@ -16,6 +16,11 @@ npm install
 ```
 
 **Start the application in development mode**
+...
+
+react-native start
+...
+
 ```
 react-native run-android
 ```
