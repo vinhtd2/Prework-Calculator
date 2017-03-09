@@ -15,7 +15,7 @@ Write steps to run your project on locally
 npm install
 ```
 
-**Set up the ANDROID_HOME environment variable
+**Set up the ANDROID_HOME environment variable**
 ```
 export ANDROID_HOME=${HOME}/Android/Sdk
 export PATH=${PATH}:${ANDROID_HOME}/tools
