@@ -16,11 +16,9 @@ npm install
 ```
 
 **Start the application in development mode**
-...
-
+```
 react-native start
-...
-
+```
 ```
 react-native run-android
 ```
@@ -55,6 +53,9 @@ GIF created with [Silentcast](https://github.com/colinkeenan/silentcast).
 ## Notes
 
 - [ ] The OS is Ubuntu (Linux), so i have no chance to practice on IOS
-- [ ] I got some problems about ideas to Navigator of the app
+- [ ] I got some problems about ideas to do Navigator of the app
 
 ## License
+```
+This app is made by Vinh Tran Duc
+```
